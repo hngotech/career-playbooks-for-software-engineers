@@ -4,7 +4,7 @@ A quick start guide for software engineers on the job search. These three prompt
 
 ---
 
-Free, copy-paste prompts for software engineers that want to quickyl update their job search info to focus on finding a job rather than documemntation.
+Free, copy-paste prompts for software engineers that want to quickly update their job search info to focus on finding a job rather than the documemntation needed to start one.
 
 Built from 10 years of recruiting experience at tech startups, agency, and consulting work.
 
