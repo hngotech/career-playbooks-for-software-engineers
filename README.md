@@ -10,7 +10,7 @@ Built from 10 years of recruiting experience at tech startups, agency, and consu
 
 All prompts are designed for [Claude](https://claude.ai). 
 
-Run them in order — each one builds on the last.
+Run them in order — each one builds on the last. 
 
 ---
 
@@ -19,8 +19,8 @@ Run them in order — each one builds on the last.
 | # | Prompt | What it does |
 | --- | --- | --- |
 | 01 | Resume positioning | Reformats and repositions your resume for tech recruiters and hiring managers |
-| 02 | Salary benchmarking | Generates comp ranges by stage, location, and specialty — base, equity, and total comp |
-| 03 | LinkedIn rewrite | Full LinkedIn profile rewrite to improve the presentation of your experience |
+| 02 | LinkedIn rewrite | Full LinkedIn profile rewrite to improve the presentation of your experience |
+| 03 | Salary benchmarking | Generates comp ranges by stage, location, and specialty — base, equity, and total comp |
 
 ---
 
