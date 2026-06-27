@@ -18,9 +18,9 @@ Run them in order — each one builds on the last.
 
 | # | Prompt | What it does |
 | --- | --- | --- |
-| 01 | Resume positioning | Reformats and repositions your resume for tech recruiters and hiring managers |
-| 02 | LinkedIn rewrite | Full LinkedIn profile rewrite to improve the presentation of your experience |
-| 03 | Salary benchmarking | Generates comp ranges by stage, location, and specialty — base, equity, and total comp |
+| 01 | Resume Positioning | Reformats and repositions your resume for tech recruiters and hiring managers |
+| 02 | LinkedIn Rewrite | Full LinkedIn profile rewrite to improve the presentation of your experience |
+| 03 | Salary Benchmarking | Generates comp ranges by stage, location, and specialty — base, equity, and total comp |
 | 04 | Hiring Manager Outreach | Generates copy for an email or Linkedin Message to a Hiring Manager |
 
 
