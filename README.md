@@ -22,6 +22,13 @@ Run them in order — each one builds on the last.
 | 02 | LinkedIn Rewrite | Full LinkedIn profile rewrite to improve the presentation of your experience |
 | 03 | Salary Benchmarking | Generates comp ranges by stage, location, and specialty — base, equity, and total comp |
 | 04 | Hiring Manager Outreach | Generates copy for an email or Linkedin Message to a Hiring Manager |
+| 05 | Tell Me About Yourself | Builds a personalized, rehearsable answer to the most common interview opener |
+| 06 | Offer Evaluation Framework | Builds a structured framework for evaluating a job offer |
+| 07 | 30-60-90 day plan | Builds a structured 30-60-90 day plan for your first three months in a new health tech engineering role  |
+
+
+
+
 
 
 ---
