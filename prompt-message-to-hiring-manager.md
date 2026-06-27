@@ -2,8 +2,7 @@
 
 **How to use it:** Fill in what you know about the person and company, then run it in Claude. Edit before sending.
 
-**Copy and Paste this Entire Prompt into Claude:** 👇🏽
-
+```
 I want to reach out directly to a hiring manager or engineering leader at a health tech company I'm interested in. Help me write a short, human outreach message that gets a response.
 
 Here's what I know:
@@ -27,3 +26,4 @@ Write me a cold outreach message with the following constraints:
 - End with my name and LinkedIn URL.
 
 Also give me: one subject line if I'm sending via email, and one alternative version of the message if I'm sending via LinkedIn DM (slightly shorter, more conversational).
+```
