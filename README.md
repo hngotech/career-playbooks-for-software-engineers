@@ -1,35 +1,28 @@
 # career-playbooks-for-software-engineers
 
-A quick start guide for software engineers on the job search. These three prompts save you hours updating your resume, LinkedIn profile, and understanding your compensation.
+Seven free, copy-paste prompts from **[asmbld](https://asmbld.kit.com/community)**, the community for software engineers in digital health.
 
 ---
 
-Free, copy-paste prompts for software engineers that want to quickly update their job search info to focus on finding a job rather than the documemntation needed to start one.
+Free prompts for software engineers who want to update their job search materials quickly, so they can focus on finding a job rather than on the documentation needed to start one.
 
 Built from 10 years of recruiting experience at tech startups, agency, and consulting work.
 
-All prompts are designed for [Claude](https://claude.ai). 
-
-Run them in order — each one builds on the last. 
+All prompts are designed for [Claude](https://claude.ai). Run them in order — each one builds on the last.
 
 ---
 
 ## The foundational prompts
 
 | # | Prompt | What it does |
-| --- | --- | --- |
-| 01 | Resume Positioning | Reformats and repositions your resume for tech recruiters and hiring managers |
-| 02 | LinkedIn Rewrite | Full LinkedIn profile rewrite to improve the presentation of your experience |
-| 03 | Salary Benchmarking | Generates comp ranges by stage, location, and specialty — base, equity, and total comp |
-| 04 | Hiring Manager Outreach | Generates copy for an email or Linkedin Message to a Hiring Manager |
-| 05 | Tell Me About Yourself | Builds a personalized, rehearsable answer to the most common interview opener |
-| 06 | Offer Evaluation Framework | Builds a structured framework for evaluating a job offer |
-| 07 | 30-60-90 day plan | Builds a structured 30-60-90 day plan for your first three months in a new health tech engineering role  |
-
-
-
-
-
+|----|----------------------------|---------------------------------------------------------------------------------------------------------|
+| 01 | [Resume Positioning](prompt-resume.md) | Reformats and repositions your resume for tech recruiters and hiring managers |
+| 02 | [LinkedIn Rewrite](prompt-linkedin.md) | Full LinkedIn profile rewrite to improve the presentation of your experience |
+| 03 | [Salary Benchmarking](prompt-salary.md) | Generates comp ranges by stage, location, and specialty — base, equity, and total comp |
+| 04 | [Hiring Manager Outreach](prompt-message-to-hiring-manager.md) | Generates copy for an email or LinkedIn message to a hiring manager |
+| 05 | [Tell Me About Yourself](prompt-tell-me-about-yourself.md) | Builds a personalized, rehearsable answer to the most common interview opener |
+| 06 | [Offer Evaluation Framework](prompt-offer-evaluation.md) | Builds a structured framework for evaluating a job offer |
+| 07 | [30-60-90 Day Plan](prompt-first-90-days.md) | Builds a structured 30-60-90 day plan for your first three months in a new health tech engineering role |
 
 ---
 
@@ -43,4 +36,18 @@ Run them in order — each one builds on the last.
 
 The output is a starting point, not a final draft.
 
-For the full 7 prompt playbook and done-for-you service, visit my product page at https://asmbld.kit.com/profile/products
+---
+
+## Want more? Join the founding 100
+
+asmbld opens November 1 to its first 100 founding members. Members get:
+
+- A complete career playbook done for you 
+- A 15-minute call to ask me anything
+- Introductions to engineering leaders, recruiters, and founders
+- Weekly office hours and in-person events
+- A founding member badge and custom asmbld rubiks cube with personal note from me
+
+After the first 100, membership is by referral only.
+
+**[Join the waitlist →](https://asmbld.kit.com/community)**
